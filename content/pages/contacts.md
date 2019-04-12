@@ -1,30 +1,22 @@
 ---
-title: "Contact me"
+title: "Kontaktiere mich"
 template: "page"
 ---
 
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+Sollten meine Beiträge Interesse geweckt, dich überzeugt oder auch nur ein paar Fragen aufgeworfen haben, kannst Du dich gerne an mich wenden!
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+Gerne kannst Du mich per E-Mail, über Instagram oder über Twitter erreichen und wirst innerhalt weniger Stunden schon eine Antwort erhalten. Hier wäre es dann auch von Vorteil, wenn Du dein Anliegen genau beschreibst, dann lässt sich das ganze schnell regeln.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-4.jpg)
+Die jeweiligen Kontaktmöglichkeiten werden unten noch einmal genau, und mit direct-link, aufgelistet!
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+![Dieses Bild zeigt drei weibliche Models mit Kleidern des Modeschöpfers Yves Saint Laurent. Eine Dame steht mittig auf einer Bank, eine weitere sitzt seitlich auf der Bank und die letzt steht etwas weiter vorne vor ihnen. Das Bild wurde Schwarz-Weiß gehalten.](/media/yves-saint-laurent.jpg)
 
-## Header Level 2
+> Mode ist vergänglich, Stil ist für die Ewigkeit! - Yves Saint Laurent
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+### Übersicht
 
-+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-+ Vestibulum auctor dapibus neque.
+Wie bereits oben beschrieben findet Ihr hier noch einmal eine genaue Auflistung der jeweiligen Kontaktmöglichkeiten. Ich werde mir größte Mühe geben, Euch asap eine Antwort zu liefern!
 
-### Header Level 3
-
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
-
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
-
-#### Header Level 4
-
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
++ [E-Mail](mailto:szavui.andreas@gmail.com)
++ [Instagram](https://instagram.com/jspr13)
++ [Twitter](https://twitter.com/wshbr13)

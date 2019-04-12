@@ -1,12 +1,14 @@
 ---
-title: "About me"
+title: "Über mich"
 template: "page"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Grüßt euch Freunde! Ich heiße Jesper bin 22 Jahre alt und studiere Medieninformatik im 2. Semester. Abegesehen davon interessiere ich mich sehr für Fashion und Lifestyle und genau das versuche ich auch hier so gut wie möglich rüber zu bringen.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+![Ein Bild von mir vor einer Wand auf dem Boden sitzend. Dort trage ich einen Stone Island Sweater in Bordeaux, eine schwarze Hose und Jordan 1 Retro High Bred Toe.](/media/about-me-profil.jpg)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+>Der Mode entkommt man nicht. Denn auch wenn Mode aus der Mode kommt, ist das schon wieder Mode. – Karl Lagerfeld
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Im Zuge dessen möchte ich euch hier auf dem Blog allgemein über Mode informieren, Inspriationen zu 'Fits oder auch krasse Schnäppchen präsentieren. Natürlich wird es auch abgesehen davon andere Beiträge geben, wobei das Hauptaugenmerk allerdings auf Mode & Lifestyle liegt.
+
+Nichtsdestotrotz hoffe ich, dass Euch der Blog gefällt und ich euch, in welcher Weise auch immer, helfen oder inspirieren konnte. ;-)

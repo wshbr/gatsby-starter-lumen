@@ -2,37 +2,34 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog von Jesper',
+  subtitle: 'Alles zu Lifestyle, Fashion und Blogging!',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
-      label: 'Articles',
+      label: 'Artikel',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Über mich',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Kontaktiere mich',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Jesper',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Ich bin 22 Jahre alt, studiere Medieninformatik im 2. Semester und interessiere mich sehr für Fashion & Lifestyle!',
     contacts: {
       email: '#',
-      telegram: '#',
       twitter: '#',
       github: '#',
-      rss: '#',
-      vkontakte: '#'
     }
   }
 };
