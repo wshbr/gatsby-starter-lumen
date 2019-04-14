@@ -24,6 +24,7 @@ Der Nike Airforce 1 ist meiner Meinung nach ein sehr schöner und schlichter Sch
 </div>
 <br>
 <img src="/media/adidas-yung-1-schuh.jpg" alt="Grauer Adidas Yung-1, Seitenansicht" width="160" style="float:left;"/>
+<br>
 <div>
 Der Adidas Yung-1 ist ein äußerst bequemer Schuh, auch wenn er auf den ersten Blick nicht unbedingt so aussieht. An seine klobigere Form muss man sich allerdings erstmal gewöhnen. Ich rate jedem, den Schuh einmal irgendwo anzuprobieren um zu prüfen, ob einem die Silhouette gefällt.
 <button class="button-save large"><a href="https://www.sneak-a-venue.de/adidas-yung-1-grey-159884?">Adidas Yung-1</a></button>
