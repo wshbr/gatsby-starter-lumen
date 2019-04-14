@@ -17,14 +17,13 @@ Ein gutes paar Schuhe ist oftmals schwer zu finden und vorallem in der heutigen 
 
 Aus diesem Grund ist es umso wichtiger die Augen nach guten Schuhen für wenig Geld offen zu halten um so gut zu sparen!
 
-<img src="/media/nike-airforce-1-schuh.jpg" alt="Weißer Nike Airforce 1 Schuh, Seitenansicht" width="160" style="float:left;"/>
+<img src="/media/nike-ariforce1-schuh.jpg" alt="Weißer Nike Airforce 1 Schuh, Seitenansicht" width="160" style="float:left;"/>
 <div>
 Der Nike Airforce 1 ist meiner Meinung nach ein sehr schöner und schlichter Schuh, welcher auf jeden Fall ein <u>muss</u> in jedem Kleiderschrank ist. Dieser Schuh lässt sich locker in mit einem sportlichen, aber auch mit einem eleganterem Outfit kombinieren!
 <button class="button-save large"><a href="https://www.footlocker.de/de/p/nike-air-force-1-low-herren-schuhe-46?v=314102441004">Nike Airforce 1</a></button>
 </div>
 <br>
 <img src="/media/adidas-yung-1-schuh.jpg" alt="Grauer Adidas Yung-1, Seitenansicht" width="160" style="float:left;"/>
-<br>
 <div>
 Der Adidas Yung-1 ist ein äußerst bequemer Schuh, auch wenn er auf den ersten Blick nicht unbedingt so aussieht. An seine klobigere Form muss man sich allerdings erstmal gewöhnen. Ich rate jedem, den Schuh einmal irgendwo anzuprobieren um zu prüfen, ob einem die Silhouette gefällt.
 <button class="button-save large"><a href="https://www.sneak-a-venue.de/adidas-yung-1-grey-159884?">Adidas Yung-1</a></button>
