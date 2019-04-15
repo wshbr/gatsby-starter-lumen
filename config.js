@@ -5,7 +5,7 @@ module.exports = {
   title: 'Blog von Jesper',
   subtitle: 'Alles zu Lifestyle, Fashion und Blogging!',
   copyright: '© All rights reserved.',
-  disqusShortname: 'jspr-wshbr-de',
+  disqusShortname: 'https-jspr-wshbr-de',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
