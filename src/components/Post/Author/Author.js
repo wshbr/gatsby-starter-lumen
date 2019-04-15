@@ -16,7 +16,6 @@ export const PureAuthor = ({ data }) => {
           rel="noopener noreferrer"
           target="_blank"
         >
-          {author.name} on Twitter
         </a>
       </p>
     </div>

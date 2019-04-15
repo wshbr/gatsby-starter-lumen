@@ -20,12 +20,20 @@ module.exports = {
     {
       label: 'Kontaktiere mich',
       path: '/pages/contacts'
+    },
+    {
+      label: 'Impressum',
+      path: '/pages/imprint'
+    },
+    {
+      label: 'Datenschutzerklärung',
+      path: '/pages/privacy'
     }
   ],
   author: {
     name: 'Jesper',
     photo: '/photo.jpg',
-    bio: 'Ich bin 22 Jahre alt, studiere Medieninformatik im 2. Semester und interessiere mich sehr für Fashion & Lifestyle!',
+    bio: 'Tag Freunde! Ich heiße Jesper, bin 22 Jahre alt und studiere Medieninformatik im 2. Semester. Hier auf dem Blog versuche ich meine Interesse an Fashion & Lifestyle mit euch zu teilen!',
     contacts: {
       email: '#',
       twitter: '#',
