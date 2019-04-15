@@ -35,9 +35,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Tag Freunde! Ich heiße Jesper, bin 22 Jahre alt und studiere Medieninformatik im 2. Semester. Hier auf dem Blog versuche ich meine Interesse an Fashion & Lifestyle mit euch zu teilen!',
     contacts: {
-      email: '#',
       twitter: '#',
-      github: '#',
+      instagram: '#',
+      email: '#',
     }
   }
 };

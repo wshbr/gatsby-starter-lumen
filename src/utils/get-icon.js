@@ -7,8 +7,8 @@ const getIcon = (name) => {
     case 'twitter':
       icon = ICONS.TWITTER;
       break;
-    case 'github':
-      icon = ICONS.GITHUB;
+    case 'instagram':
+      icon = ICONS.INSTAGRAM;
       break;
     case 'email':
       icon = ICONS.EMAIL;
